@@ -1,0 +1,22 @@
+body{
+  background :linear-gradient(lime 0%,teal 100%); 
+  font-family: 'Noto Sans', sans-serif; 
+}
+.Login_DivOne,.Login_DivTwo{
+    background:whitesmoke;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
